@@ -1,12 +1,11 @@
 /**
  * Juego
  *
- * Juego en el que la changuita Barra debera de eliminar a los fantasmas 
- * y evitar a todos los juanitos!
+ * Juego brick breaker de Breaking Bad
  *
  * @author Diego Ponce and Viridiana 
  * @version 2.0
- * @date 18/02/2015
+ * @date 24/02/2015
  */
 
 package bbgame;
